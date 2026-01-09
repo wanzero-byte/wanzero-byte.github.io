@@ -1,5 +1,5 @@
 This is private journal
-Countdown leading up to !4th February 2032
+Countdown leading up to 14th February 2032
 
 Note to self:
 ✅ How to journal in the future
