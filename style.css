@@ -1,18 +1,7 @@
-body {
-  font-family: sans-serif;
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 0 20px;
-}
-
 #countdown {
   font-size: 2rem;
+  font-weight: bold;
   margin: 20px 0;
-}
-
-.entry {
-  border-left: 4px solid #000;
-  padding-left: 12px;
-  margin-bottom: 16px;
+  color: darkred;
 }
 
