@@ -8,7 +8,6 @@ Open script.js
 
 Add a new object inside the journal array:
 
-{
   date: "2026-06-02",
   
   type: "achievement",
@@ -16,7 +15,6 @@ Add a new object inside the journal array:
   title: "First freelance income",
   
   notes: "Small amount, but started the compounding process."
-}
 
 Commit changes
 
