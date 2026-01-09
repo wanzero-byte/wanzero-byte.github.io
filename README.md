@@ -1,4 +1,4 @@
-This is private journal
+This is my journal
 Countdown leading up to 14th February 2032
 
 Note to self:
